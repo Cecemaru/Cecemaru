@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ömer Düzgün
-- 👀 I’m interested in Front-En Web Desing and Coding
+- 👀 I’m interested in Front-End Web Desing and Coding
 - 🌱 I’m currently learning JavaScript Framework
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-d%C3%BCzg%C3%BCn-a4b736210/)
 
