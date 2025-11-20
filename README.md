@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 Github kodu datablast
 
 peki ben simdi burda tekrar 2.denemem
+
+pull islemi icin deneme
